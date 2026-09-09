@@ -128,6 +128,5 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaU1111&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
-<img src="https://github-profile-trophy-tau-rust.vercel.app/?username=AnushaU1111&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
