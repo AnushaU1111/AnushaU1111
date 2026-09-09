@@ -17,7 +17,7 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 - 🤖 Software Engineering Intern at Neuraluna AI: LLM benchmarking harness across 32 models and 8 AI agents
 - 🔬 Research Assistant at NC State: statistical analysis and predictive modeling over large-scale social media engagement data
 - 🧬 Former Research Assistant at Temple University: multimodal multilingual RAG platform for medical information access
-- 📍 Cary, NC
+- 📍 Raleigh, NC
 
 <br/>
 
