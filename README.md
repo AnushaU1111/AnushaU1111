@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anusha+%F0%9F%91%8B;M.S.+CS+Student+%40+NC+State+University;NLP+%2B+RAG+%2B+AI+Quality+Engineering" alt="Typing SVG"/>
+# Hi there 👋 I'm Anusha
+
+MS CS candidate at NC State University, building full-stack apps, data pipelines, and production ML systems.
 
 <p>
   <a href="https://www.linkedin.com/in/upadhyay-anusha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -9,59 +11,90 @@
   <a href="https://github.com/AnushaU1111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AnushaU1111&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+- 🎓 MCS in Computer Science (Data Science concentration) at NC State University, expected Dec 2026 · B.Tech from VIT Vellore
+- 🤖 Software Engineering Intern at Neuraluna AI: LLM benchmarking harness across 32 models and 8 AI agents
+- 🔬 Research Assistant at NC State: statistical analysis and predictive modeling over large-scale social media engagement data
+- 🧬 Former Research Assistant at Temple University: multimodal multilingual RAG platform for medical information access
+- 📍 Cary, NC
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NC%20STATE-MCS-CC0000?style=for-the-badge" alt="NC State MCS"/>
+<img src="https://img.shields.io/badge/FOCUS-Applied%20ML-7AA2F7?style=for-the-badge" alt="Focus: Applied ML"/>
+<img src="https://img.shields.io/badge/ROLE-AI%20Evaluation%20Eng-9ECE6A?style=for-the-badge" alt="Role: AI Evaluation Engineering"/>
+<img src="https://img.shields.io/badge/DOMAIN-NLP%20%26%20RAG-BB9AF7?style=for-the-badge" alt="Domain: NLP and RAG"/>
 
 </div>
 
 <br/>
 
-## 🎓 About Me
+## 🧑‍💻 I Code In
 
-- 🔭 M.S. Computer Science at NC State University (expected May 2027), B.Tech from VIT Vellore
-- 🔬 Graduate Research Assistant at NC State: NLP pipelines over a large-scale social media dataset (Affordability Project)
-- 🤖 Software Engineering Intern at Neuraluna AI: LLM benchmarking and Pareto frontier analysis
-- 🧬 Former Research Assistant at Temple University: multimodal multilingual RAG systems
-- 📍 Cary, NC
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,r&theme=dark" alt="Languages"/>
+
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=react,tensorflow,pytorch,sklearn,mysql,mongodb,gcp,kubernetes,git,github&theme=dark" alt="Tools and platforms"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
 <br/>
 
-## 🔬 Research & Work
+## 🔬 Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Graduate Research Assistant
-**NC State University — Affordability Project**
+### 🤖 Software Engineering Intern
+**Neuraluna AI** · Jun 2026 – Aug 2026 (AI Evaluation Engineering)
 
-Built a full NLP preprocessing pipeline over 1.1M+ social media posts.
-
-- Sentiment analysis: `cardiffnlp/twitter-roberta`
-- Emotion analysis: `j-hartmann/emotion-english-distilroberta`
-- Topic modeling: `BERTopic`
-- Delivered a 22-slide presentation and methodology document
+- Built an automated LLM benchmarking harness evaluating 32 models across 8 AI agents on quality, cost, and latency
+- Applied Pareto frontier analysis to flag a dominated production model; the recommended swap cut cost ~33% while improving quality and latency
+- Audited an internal AI agent-builder's prompt and config, validating fixes via A/B testing and shipping 6 confirmed improvements
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Software Engineering Intern
-**Neuraluna AI — AI Quality Engineering**
+### 🔬 Research Assistant
+**NC State University** · Feb 2026 – Present (Applied ML & Software Development)
 
-Benchmarked LLMs and analyzed cost and quality tradeoffs for a multi-agent platform.
-
-- Pareto frontier analysis across 24 models
-- Evaluation framework mapping ~130 tools to models
-- Recommended a quality-first, cost-tiebreaker assignment strategy
+- Conduct statistical analysis of large-scale social media engagement datasets to identify behavioral and interaction patterns
+- Develop predictive modeling pipelines to analyze engagement trends and platform-level performance
+- Build analytical workflows and run exploratory data analysis to translate quantitative findings into insights
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### 🧬 Research Assistant
-**Temple University**
+**Temple University** · Jan 2025 – May 2025
 
-Built a multimodal, multilingual RAG system (`LangChain`, `FAISS`, `Ollama`/`Granite` LLM) over 1,000+ medical documents, advised by Dr. Vikas Khurana and Professor Subodha Kumar. Also built a retail data analytics project.
+- Built a multimodal, multilingual RAG platform over 1,000+ medical documents to improve access to colorectal cancer information
+- Designed the ingestion and embedding pipeline; implemented FAISS-based semantic search to boost retrieval precision
+- Fine-tuned and evaluated 5 LLM configurations, improving medical response quality and factual grounding
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Web Developer & UX Designer
+**Institute of Engineering and Technology, VIT** · Mar 2022 – Jan 2024
+
+- Designed UX and implemented front-end features for flagship event websites, improving usability and navigation
+- Collaborated with design and technical teams to deliver functional event platforms within project timelines
 
 </td>
 </tr>
@@ -69,31 +102,13 @@ Built a multimodal, multilingual RAG system (`LangChain`, `FAISS`, `Ollama`/`Gra
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Academic Projects
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **Skin Cancer Detection Pipeline** | EfficientNet-B3, EVA02 ViT, Focal Loss, MixUp/CutMix, TTA | AUC 0.964, 93.9% malignant recall |
-| **ReqTrace** | FAISS, Neo4j | Top 3 in class, recognized by Prof. Tim Menzies |
-| **Personalized Learning Agent** | LangGraph, FAISS/Chroma, SQLite, D3.js | Socratic dialogue, adaptive quizzing, knowledge gap mapping |
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,r&theme=dark" alt="Languages"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,pytorch,tensorflow&theme=dark" alt="Frameworks"/>
-
-**Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,aws&theme=dark" alt="Data and infra"/>
-
-Also working with **LangChain**, **FAISS**, and **Neo4j** for retrieval and knowledge-graph systems.
+| **Wearable Acoustic Event Classification** | CNN, LightGBM, PANNs audio embeddings | 0.78 Macro F1, 0.93 accuracy on held-out subjects, top 5 in class competition |
+| **Skin Cancer Detection** | EfficientNet-B3, ViT ensemble, Focal Loss, MixUp/CutMix, TTA | Val AUC 0.94 → 0.96, 93.9% malignant recall, presented at student symposium |
+| **ReqTrace** | Python, NLP, FAISS, Neo4j | Automated requirements traceability and impact analysis, ranked top 3 in class |
 
 <br/>
 
@@ -102,7 +117,7 @@ Also working with **LangChain**, **FAISS**, and **Neo4j** for retrieval and know
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnushaU1111&show_icons=true&theme=tokyonight&hide_border=true" alt="Anusha's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaU1111&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaU1111&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaU1111&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
