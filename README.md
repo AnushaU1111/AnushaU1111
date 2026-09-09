@@ -112,15 +112,3 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-seven-topaz-12.vercel.app/api?username=AnushaU1111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Anusha's GitHub stats"/>
-<img height="165" src="https://github-readme-stats-seven-topaz-12.vercel.app/api/top-langs/?username=AnushaU1111&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaU1111&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnushaU1111&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
-
-</div>
