@@ -17,7 +17,7 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 - 🤖 Software Engineering Intern at Neuraluna AI: LLM benchmarking harness across 32 models and 8 AI agents
 - 🔬 Research Assistant at NC State: statistical analysis and predictive modeling over large-scale social media engagement data
 - 🧬 Former Research Assistant at Temple University: multimodal multilingual RAG platform for medical information access
-- 📍 Raleigh, NC
+- 📍 Cary, NC
 
 <br/>
 
@@ -54,7 +54,8 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 
 ## 🖥️ IDEs & Tools I Use
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,postman&theme=dark" alt="IDEs and tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman&theme=dark" alt="IDEs and tools"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
 <br/>
 
