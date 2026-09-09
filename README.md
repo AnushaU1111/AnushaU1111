@@ -17,7 +17,7 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 - 🤖 Software Engineering Intern at Neuraluna AI: LLM benchmarking harness across 32 models and 8 AI agents
 - 🔬 Research Assistant at NC State: statistical analysis and predictive modeling over large-scale social media engagement data
 - 🧬 Former Research Assistant at Temple University: multimodal multilingual RAG platform for medical information access
-- 📍 Raleigh, NC
+- 📍 Cary, NC
 
 <br/>
 
@@ -116,8 +116,8 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnushaU1111&show_icons=true&theme=tokyonight&hide_border=true" alt="Anusha's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaU1111&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats-seven-topaz-12.vercel.app/api?username=AnushaU1111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Anusha's GitHub stats"/>
+<img height="165" src="https://github-readme-stats-seven-topaz-12.vercel.app/api/top-langs/?username=AnushaU1111&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaU1111&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
