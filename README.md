@@ -9,6 +9,7 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
   <a href="mailto:anushaupadhyay1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:aupadhy6@ncsu.edu"><img src="https://img.shields.io/badge/NC%20State%20Email-CC0000?style=for-the-badge" alt="NC State email"/></a>
   <a href="https://github.com/AnushaU1111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="./Anusha_Upadhyay_Resume.pdf"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
 </p>
 
 </div>
