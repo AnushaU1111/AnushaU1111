@@ -115,8 +115,11 @@ MS CS candidate at NC State University, building full-stack apps, data pipelines
 | Project | Stack | Highlight |
 |---|---|---|
 | **Wearable Acoustic Event Classification** | CNN, LightGBM, PANNs audio embeddings | 0.78 Macro F1, 0.93 accuracy on held-out subjects, top 5 in class competition |
-| **Skin Cancer Detection** | EfficientNet-B3, ViT ensemble, Focal Loss, MixUp/CutMix, TTA | Val AUC 0.94 → 0.96, 93.9% malignant recall, presented at student symposium |
-| **ReqTrace** | Python, NLP, FAISS, Neo4j | Automated requirements traceability and impact analysis, ranked top 3 in class |
+- | **Skin Cancer Detection** | EfficientNet-B3, ViT ensemble, Focal Loss, MixUp/CutMix, TTA | Val AUC 0.94 → 0.96, 93.9% malignant recall, presented at student symposium |
++ | **[Skin Cancer Detection](https://github.com/AnushaU1111/NNDL-Team3-Skin-Cancer-Detection)** | EfficientNet-B3, ViT ensemble, Focal Loss, MixUp/CutMix, TTA | Val AUC 0.94 → 0.96, 93.9% malignant recall, presented at student symposium |
+
+- | **ReqTrace** | Python, NLP, FAISS, Neo4j | Automated requirements traceability and impact analysis, ranked top 3 in class |
++ | **[ReqTrace](https://github.com/tiva710/SE_Project_2)** | Python, NLP, FAISS, Neo4j | Automated requirements traceability and impact analysis, ranked top 3 in class |
 
 <br/>
 
